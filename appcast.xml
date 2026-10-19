@@ -3,6 +3,15 @@
   <channel>
     <title>Kalem</title>
     <item>
+      <title>Kalem 1.1.0</title>
+      <pubDate>Mon, 19 Oct 2026 22:36:30 +0000</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Asistan (Claude), İş listesi (Excel içe/dışa aktarma), UYAP evrak listesi içe aktarma, belge masası düzenlemeleri.]]></description>
+      <enclosure url="https://github.com/h4yfans/kalem-releases/releases/download/v1.1.0/Kalem-1.1.0.dmg" type="application/octet-stream" sparkle:edSignature="cgB/992/ZXsg+fUYiyU/Yu425PgvUbyfO/XCmaN+Skw9dTY48887gopA3rmIY7Y/AxjYUyJvlLSWC+gWR8gFAg==" length="5147510"/>
+    </item>
+    <item>
       <title>Kalem 1.0.0</title>
       <pubDate>Mon, 19 Oct 2026 20:54:43 +0000</pubDate>
       <sparkle:version>1</sparkle:version>
