@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Kalem</title>
+    <item>
+      <title>Kalem 1.0.0</title>
+      <pubDate>Mon, 19 Oct 2026 20:54:43 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[İlk sürüm.]]></description>
+      <enclosure url="https://github.com/h4yfans/kalem-releases/releases/download/v1.0.0/Kalem-1.0.0.dmg" type="application/octet-stream" sparkle:edSignature="AHBNxJJ6i7fzaH8kQxANckWjPGbBp2uWdKY0IdVUHl/gAH0ySy8yZQrw0T3mLocKiLSUuhVcsWo8pcJmGij0CQ==" length="4342998"/>
+    </item>
+  </channel>
+</rss>
