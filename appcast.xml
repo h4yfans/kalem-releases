@@ -3,6 +3,15 @@
   <channel>
     <title>Kalem</title>
     <item>
+      <title>Kalem 1.2.0</title>
+      <pubDate>Tue, 20 Oct 2026 12:33:36 +0000</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Belge masası yeniden tasarlandı: dosya havuzu, renkli Ek bölümleri, her Ek için tek PDF/UDF/DOCX çıktısı. DOCX'ten UDF'ye dönüşüm düzeltildi: UDF'ler UYAP Doküman Editörü'nde açılıyor; tablo, kalın, hizalama, sekme ve listeler korunuyor. PDF önizlemede tablo sayfa sonunda yazının üstüne binmiyor. Güncellemeler kendiliğinden iner, kurulum için yeniden başlatma sorulur.]]></description>
+      <enclosure url="https://github.com/h4yfans/kalem-releases/releases/download/v1.2.0/Kalem-1.2.0.dmg" type="application/octet-stream" sparkle:edSignature="quCWt2ri8fWWPHxOYPn6AGD9qTYHBoHe8ejKXnO1QuvIZqUiOpK7M9U8c/cHt83bVUofrse4dz6c/sBDLoAnCA==" length="5574627"/>
+    </item>
+    <item>
       <title>Kalem 1.1.0</title>
       <pubDate>Mon, 19 Oct 2026 22:36:30 +0000</pubDate>
       <sparkle:version>26</sparkle:version>
