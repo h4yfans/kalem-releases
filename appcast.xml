@@ -3,6 +3,15 @@
   <channel>
     <title>Kalem</title>
     <item>
+      <title>Kalem 1.3.1</title>
+      <pubDate>Wed, 21 Oct 2026 10:21:59 +0000</pubDate>
+      <sparkle:version>34</sparkle:version>
+      <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Kalem artık her açılışta güncellemeyi denetler; yeni sürüm indirilince yeniden başlatmak isteyip istemediğinizi sorar.]]></description>
+      <enclosure url="https://github.com/h4yfans/kalem-releases/releases/download/v1.3.1/Kalem-1.3.1.dmg" type="application/octet-stream" sparkle:edSignature="fD52g73NO1ODNhc4/QK23DLWRTEBpu8yZppXVMs4P8j1zYvRtXtogbTvIcXdJyY61g9sdzxLVAKi3ZZW4dAuAA==" length="5596716"/>
+    </item>
+    <item>
       <title>Kalem 1.3.0</title>
       <pubDate>Wed, 21 Oct 2026 10:07:12 +0000</pubDate>
       <sparkle:version>33</sparkle:version>
